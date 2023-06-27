@@ -4102,8 +4102,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58e69d117639444eb4fbbdc24787f83a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _dollar1: {fileID: 0}
-  _dollarP: {fileID: 0}
+  _dollar1: {fileID: 1529428707}
+  _dollarP: {fileID: 1804029214}
 --- !u!222 &1039326027
 CanvasRenderer:
   m_ObjectHideFlags: 0
